@@ -1,11 +1,9 @@
-# Beteab G. Gebru
-# January 1 2019
+* Beteab G. Gebru
+* January 1 2019
+* WebResume 
 
-## Live Resume Through Continous Integrtion
-* 
+## Resume Through Continous Integrtion
+* ![BuildStatus](https://travis-ci.org/sedouard/resume.svg?branch=master)
 
-## Continous Integration
-* 
-
-## MY Resume Built Using MVC .NET Core, and hosted on Azure Server
+##  
 * 
