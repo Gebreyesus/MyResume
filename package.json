@@ -1,0 +1,16 @@
+{
+  "name": "Beteab-Resume-ContinuousIntegration",
+  "version": "1.0.0",
+  "description": "Continuous Integration Demo - MyResume",
+  "main": "app.js",
+  "author": {
+    "name": "Beteab Gebru",
+    "email": "beteab@live.com"
+  },
+  "scripts": {
+    "test": "node ./node_modules/resume-cli/index.js export index -f html"
+  },
+  "dependencies": {
+    "resume-cli": "^0.3.10"
+  }
+}
