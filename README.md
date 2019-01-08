@@ -3,7 +3,7 @@
 * WebResume 
 
 ## Resume Through Continous Integrtion
-* ![BuildStatus](https://travis-ci.org/sedouard/resume.svg?branch=master)
+* ![BuildStatus](https://travis-ci.com/Gebreyesus/MyResume.svg?branch=master)
 
 ##  
 * 
